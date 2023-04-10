@@ -12,6 +12,7 @@ https://user-images.githubusercontent.com/89917595/220739795-5b1569a6-45e2-4e59-
 
 ## 3D: Car and Wheels movement
 <img width="1200" alt="Screen Shot 2023-02-22 at 2 34 20 PM" src="https://user-images.githubusercontent.com/89917595/220739513-7df045a0-6e7d-423f-b52e-b209b149178a.png">
+<img width="600" alt="car-sprite" src="https://user-images.githubusercontent.com/89917595/230825027-283968d3-d8eb-487f-ba37-34ef49bafa3a.png">
 
 https://user-images.githubusercontent.com/89917595/220739609-3cf689fc-63f1-4bbe-84bb-383e0dfe38e4.mov
 
